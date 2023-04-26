@@ -68,7 +68,7 @@ const Home = () => {
               <IoLogoWhatsapp size={35} />
             </Link>
           </div>
-          <h1 className='my-10 text-4xl xl:text-6xl lg:text-5xl md:text-5xl xl:tracking-wide font-semibold text-center bg-gradient-to-br from-secondary to-tertiary bg-clip-text text-transparent '>
+          <h1 className='my-10 text-4xl 2xl:text-7xl xl:text-6xl lg:text-5xl md:text-5xl xl:tracking-wide font-semibold text-center bg-gradient-to-br from-secondary to-tertiary bg-clip-text text-transparent '>
             ¡Hola! Soy Brandon Mojica, ingeniero de software y desarrollador fullstack de aplicaciones web
           </h1>
         </div>
@@ -84,8 +84,8 @@ const Home = () => {
               </div>
             </div>
             <div className='justify-start items-start'>
-              <h2 className='my-3 xl:text-5xl lg:text-4xl md:text-3xl font-semibold text-white'>Sobre mi</h2>
-              <p className='xl:text-2xl lg:text-xl md:text-lg text-justify leading-relaxed lg:leading-none'>
+              <h2 className='my-3 2xl:text-5xl lg:text-4xl md:text-3xl font-semibold text-white'>Sobre mi</h2>
+              <p className='2xl:text-2xl lg:text-xl md:text-lg text-justify leading-relaxed lg:leading-none'>
                 Soy un desarrollador de aplicaciones web con 1 año y medio de experiencia en ReactJS y Python.
                 Adem&aacute;s, cuento con m&aacute;s de 3 años liderando y planificando proyectos de software.
                 Me apasiona la tecnolog&iacute;a y el desarrollo de soluciones innovadoras que resuelvan problemas reales.
@@ -93,7 +93,7 @@ const Home = () => {
             </div>
           </div>
           <div className='w-1/3 items-start 2xl:pl-44 lg:pl-28 md:pl-24'>
-            <p className='xl:text-5xl lg:text-4xl md:text-3xl font-semibold text-white'>Contactame</p>
+            <p className='2xl:text-5xl lg:text-4xl md:text-3xl font-semibold text-white'>Contactame</p>
             <div className='w-full flex-row justify-start mt-8 gap-5'>
               <Link href='https://www.linkedin.com/in/brandon-mojica-dev' className='hover:text-5xl'>
                 <IoLogoLinkedin className='xl:text-[3rem] lg:text-[2.5rem] md:text-[2rem] cursor-pointer' />
@@ -121,7 +121,7 @@ const Home = () => {
               <div className='absolute -top-8'>
                 <div className="p-0.5 bg-gradient-to-tr from-secondary to-tertiary rounded-full">
                   <div className='p-3 bg-container rounded-full overflow-hidden'>
-                    <IoDice className='xl:text-[3rem] lg:text-[2.5rem] md:text-[2rem]' />
+                    <IoDice className='2xl:text-[3rem] lg:text-[2.5rem] md:text-[2rem]' />
                   </div>
                 </div>
               </div>
@@ -132,7 +132,7 @@ const Home = () => {
               <div className='absolute -top-8'>
                 <div className="p-0.5 bg-gradient-to-tr from-secondary to-tertiary rounded-full">
                   <div className='p-3 bg-container rounded-full overflow-hidden'>
-                    <IoDiamond className='xl:text-[3rem] lg:text-[2.5rem] md:text-[2rem]' />
+                    <IoDiamond className='2xl:text-[3rem] lg:text-[2.5rem] md:text-[2rem]' />
                   </div>
                 </div>
               </div>
