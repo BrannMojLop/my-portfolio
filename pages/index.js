@@ -69,7 +69,7 @@ const Home = () => {
             </Link>
           </div>
           <h1 className='my-10 text-4xl xl:text-6xl lg:text-5xl md:text-5xl xl:tracking-wide font-semibold text-center bg-gradient-to-br from-secondary to-tertiary bg-clip-text text-transparent '>
-            &#34¡Hola! Soy Brandon Mojica, ingeniero de software y desarrollador fullstack de aplicaciones web&#34
+            ¡Hola! Soy Brandon Mojica, ingeniero de software y desarrollador fullstack de aplicaciones web;
           </h1>
         </div>
         <section className='hidden md:flex w-full flex-row mt-24'>
