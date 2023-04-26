@@ -34,7 +34,7 @@ const skills = () => {
                 <ul className='scrollbar scrollbar-none overflow-auto flex-1 pb-20 flex flex-col gap-3'>
                     <li className='w-full p-5 bg-container rounded-lg'>
                         <h4 className='mb-2 font-semibold text-2xl'>Desarrollo BackEnd</h4>
-                        <p className='mb-8 font-light'>Cuento con 1.5 años de experiencia en creación de API's del lado del servidor.</p>
+                        <p className='mb-8 font-light'>Cuento con 1.5 años de experiencia en creación de APIs del lado del servidor.</p>
                         <h6 className='text-lg font-semibold'>Tecnologias y herramientas:</h6>
                         <div className='mt-1 flex-row gap-3 justify-start'>
                             <div className='w-9 h-9 p-1 bg-white rounded-lg'>
@@ -69,7 +69,7 @@ const skills = () => {
                     </li>
                     <li className='w-full p-5 bg-container rounded-lg'>
                         <h4 className='mb-2 font-semibold text-2xl'>Desarrollo FrontEnd</h4>
-                        <p className='mb-8 font-light'>Me especializo en la creación de interfaces de usuario atractivas y funcionales, utilizando tecnologías modernas para garantizar una experiencia de usuario de alta calidad.</p>
+                        <p className='mb-8 font-light'>Me especializo en la creaci&oacute;n de interfaces de usuario atractivas y funcionales, utilizando tecnolog&iacute;as modernas para garantizar una experiencia de usuario de alta calidad.</p>
                         <h6 className='text-lg font-semibold'>Tecnologias y herramientas:</h6>
                         <div className='mt-1 flex-row gap-3 justify-start'>
                             <div className='w-9 h-9 p-1 bg-white rounded-lg'>
@@ -104,7 +104,7 @@ const skills = () => {
                     </li>
                     <li className='w-full p-5 bg-container rounded-lg'>
                         <h4 className='mb-2 font-semibold text-2xl'>Desarrollo Mobile</h4>
-                        <p className='mb-8 font-light'>Aprendiz en el mundo del desarrollo de aplicaciones móviles, utilizando React Native para crear soluciones móviles multiplataforma.</p>
+                        <p className='mb-8 font-light'>Aprendiz en el mundo del desarrollo de aplicaciones m&oacute;viles, utilizando React Native para crear soluciones m&oacute;viles multiplataforma.</p>
                         <h6 className='text-lg font-semibold'>Tecnologias y herramientas:</h6>
                         <div className='mt-1 flex-row gap-3 justify-start'>
                             <div className='w-9 h-9 p-1 bg-white rounded-lg'>
@@ -124,8 +124,8 @@ const skills = () => {
                         </div>
                     </li>
                     <li className='w-full p-5 bg-container rounded-lg'>
-                        <h4 className='mb-2 font-semibold text-2xl'>Administración de Servidores</h4>
-                        <p className='mb-8 font-light'>Administrador de servidores con conocimientos básicos de Linux. Siempre estoy dispuesto a aprender y mejorar mis habilidades en este campo en constante evolución.</p>
+                        <h4 className='mb-2 font-semibold text-2xl'>Administraci&oacute;n de Servidores</h4>
+                        <p className='mb-8 font-light'>Administrador de servidores con conocimientos b&aacute;sicos de Linux. Siempre estoy dispuesto a aprender y mejorar mis habilidades en este campo en constante evoluci&oacute;n.</p>
                         <h6 className='text-lg font-semibold'>Tecnologias y herramientas:</h6>
                         <div className='mt-1 flex-row gap-3 justify-start'>
                             <div className='w-9 h-9 p-1 bg-white rounded-lg'>

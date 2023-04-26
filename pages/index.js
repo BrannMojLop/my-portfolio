@@ -69,7 +69,7 @@ const Home = () => {
             </Link>
           </div>
           <h1 className='my-10 text-4xl xl:text-6xl lg:text-5xl md:text-5xl xl:tracking-wide font-semibold text-center bg-gradient-to-br from-secondary to-tertiary bg-clip-text text-transparent '>
-            ¡Hola! Soy Brandon Mojica, ingeniero de software y desarrollador fullstack de aplicaciones web;
+            ¡Hola! Soy Brandon Mojica, ingeniero de software y desarrollador fullstack de aplicaciones web
           </h1>
         </div>
         <section className='hidden md:flex w-full flex-row mt-24'>
@@ -87,8 +87,8 @@ const Home = () => {
               <h2 className='my-3 xl:text-5xl lg:text-4xl md:text-3xl font-semibold text-white'>Sobre mi</h2>
               <p className='xl:text-2xl lg:text-xl md:text-lg text-justify leading-relaxed lg:leading-none'>
                 Soy un desarrollador de aplicaciones web con 1 año y medio de experiencia en ReactJS y Python.
-                Además, cuento con más de 3 años liderando y planificando proyectos de software.
-                Me apasiona la tecnología y el desarrollo de soluciones innovadoras que resuelvan problemas reales.
+                Adem&aacute;s, cuento con m&aacute;s de 3 años liderando y planificando proyectos de software.
+                Me apasiona la tecnolog&iacute;a y el desarrollo de soluciones innovadoras que resuelvan problemas reales.
               </p>
             </div>
           </div>
@@ -111,8 +111,8 @@ const Home = () => {
           <div className='w-1/2 justify-start items-start'>
             <h2 className='my-3 xl:text-5xl lg:text-4xl md:text-3xl font-semibold text-white'>Lo que hago</h2>
             <p className='xl:text-2xl lg:text-xl md:text-lg text-justify leading-relaxed lg:leading-none'>
-              Mi especialidad es la gestión de procesos y la mejora continua mediante la evaluación de los mismos.
-              Utilizo mis habilidades en lógica de programación para crear soluciones tecnológicas que implementen
+              Mi especialidad es la gesti&oacute;n de procesos y la mejora continua mediante la evaluaci&oacute;n de los mismos.
+              Utilizo mis habilidades en lógica de programaci&oacute;n para crear soluciones tecnol&oacute;gicas que implementen
               mejoras efectivas y sostenibles.
             </p>
           </div>
@@ -125,8 +125,8 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-              <h4 className='mb-5 font-semibold 2xl:text-2xl lg:text-xl md:text-lg'>Metodologías</h4>
-              <p className='text-center 2xl:text-xl lg:text-lg md:text-base'>Capacidad de adaptación a metologías ágiles de desarrollo como SCRUM</p>
+              <h4 className='mb-5 font-semibold 2xl:text-2xl lg:text-xl md:text-lg'>Metodolog&iacute;as</h4>
+              <p className='text-center 2xl:text-xl lg:text-lg md:text-base'>Capacidad de adaptaci&oacute;n a metologías &aacute;giles de desarrollo como SCRUM</p>
             </div>
             <div className='relative w-1/2 h-64 px-[5%] pb-[5%] pt-[10%] justify-start bg-container text-white  text-center rounded-md'>
               <div className='absolute -top-8'>
@@ -137,7 +137,7 @@ const Home = () => {
                 </div>
               </div>
               <h4 className='mb-5 font-semibold 2xl:text-2xl lg:text-xl md:text-lg'>Astucia</h4>
-              <p className='text-center 2xl:text-xl lg:text-lg md:text-base'>Razonamiento lógico y analítico para solución de problemas</p>
+              <p className='text-center 2xl:text-xl lg:text-lg md:text-base'>Razonamiento l&oacute;gico y analítico para soluci&oacute;n de problemas</p>
             </div>
           </div>
         </section>
@@ -145,16 +145,16 @@ const Home = () => {
           <h2 className='my-3 text-2xl text-center font-semibold text-white'>Sobre mi</h2>
           <p className='text-justify'>
             Soy un desarrollador de aplicaciones web con 1 año y medio de experiencia en ReactJS y Python.
-            Además, cuento con más de 3 años liderando y planificando proyectos de software.
-            Me apasiona la tecnología y el desarrollo de soluciones innovadoras que resuelvan problemas reales.
+            Adem&aacute;s, cuento con m&aacute;s de 3 años liderando y planificando proyectos de software.
+            Me apasiona la tecnolog&iacute;a y el desarrollo de soluciones innovadoras que resuelvan problemas reales.
           </p>
         </section>
         <section className='md:hidden w-full my-8'>
           <div className='flex-col mb-8'>
             <h2 className='my-3 text-2xl text-center font-semibold text-white'>Lo que hago</h2>
             <p className='text-justify'>
-              Mi especialidad es la gestión de procesos y la mejora continua mediante la evaluación de los mismos.
-              Utilizo mis habilidades en lógica de programación para crear soluciones tecnológicas que implementen
+              Mi especialidad es la gesti&oacute;n de procesos y la mejora continua mediante la evaluaci&oacute;n de los mismos.
+              Utilizo mis habilidades en lógica de programaci&oacute;n para crear soluciones tecnol&oacute;gicas que implementen
               mejoras efectivas y sostenibles.
             </p>
           </div>
@@ -173,8 +173,8 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-              <h4 className='mb-5 font-semibold text-lg'>Metodologías</h4>
-              <p className='text-left'>Capacidad de adaptación a metologías ágiles de desarrollo como SCRUM</p>
+              <h4 className='mb-5 font-semibold text-lg'>Metodolog&iacute;as</h4>
+              <p className='text-left'>Capacidad de adaptaci&oacute;n a metolog&iacute;as ágiles de desarrollo como SCRUM</p>
             </Motion.div>
             <Motion.div
               ref={ref}
@@ -191,7 +191,7 @@ const Home = () => {
                 </div>
               </div>
               <h4 className='mb-5 font-semibold text-lg'>Astucia</h4>
-              <p className='text-left'>Razonamiento lógico y analítico para solución de problemas</p>
+              <p className='text-left'>Razonamiento l&oacute;gico y analítico para soluci&oacute;n de problemas</p>
             </Motion.div>
           </div>
         </section>
@@ -414,7 +414,7 @@ const Home = () => {
             <li className='w-full flex flex-col h-auto 2xl:p-12 lg:p-8 md:p-4 bg-container rounded-lg'>
               <div className='w-full items-start'>
                 <h4 className='mb-3 font-semibold xl:text-3xl lg:text-2xl md:text-xl'>Desarrollo BackEnd</h4>
-                <p className='font-light xl:text-2xl lg:text-lg xl:leading-relaxed'>Cuento con 1.5 años de experiencia en creación de API's del lado del servidor.</p>
+                <p className='font-light xl:text-2xl lg:text-lg xl:leading-relaxed'>Cuento con 1.5 años de experiencia en creación de APIs del lado del servidor.</p>
               </div>
               <div className='flex-1 mt-10 justify-end items-start'>
                 <h6 className='xl:text-3xl lg:text-xl md:text-lg font-semibold'>Tecnologias y herramientas:</h6>
@@ -453,7 +453,7 @@ const Home = () => {
             <li className='w-full flex flex-col h-auto 2xl:p-12 lg:p-8 md:p-4 bg-container rounded-lg'>
               <div className='w-full items-start'>
                 <h4 className='mb-3 font-semibold xl:text-3xl lg:text-2xl md:text-xl'>Desarrollo FrontEnd</h4>
-                <p className='font-light 2xl:text-2xl lg:text-lg 2xl:leading-relaxed'>Me especializo en la creación de interfaces de usuario atractivas y funcionales, utilizando tecnologías modernas para garantizar una experiencia de usuario de alta calidad.</p>
+                <p className='font-light 2xl:text-2xl lg:text-lg 2xl:leading-relaxed'>Me especializo en la creaci&oacute;n de interfaces de usuario atractivas y funcionales, utilizando tecnolog&iacute;as modernas para garantizar una experiencia de usuario de alta calidad.</p>
               </div>
               <div className='flex-1 mt-10 justify-end items-start'>
                 <h6 className='xl:text-3xl lg:text-xl md:text-lg font-semibold'>Tecnologias y herramientas:</h6>
@@ -492,7 +492,7 @@ const Home = () => {
             <li className='w-full flex flex-col h-auto 2xl:p-12 lg:p-8 md:p-4 bg-container rounded-lg'>
               <div className='w-full items-start'>
                 <h4 className='mb-3 font-semibold xl:text-3xl lg:text-2xl md:text-xl'>Desarrollo Mobile</h4>
-                <p className='font-light 2xl:text-2xl lg:text-lg 2xl:leading-relaxed'>Aprendiz en el mundo del desarrollo de aplicaciones móviles, utilizando React Native para crear soluciones móviles multiplataforma.</p>
+                <p className='font-light 2xl:text-2xl lg:text-lg 2xl:leading-relaxed'>Aprendiz en el mundo del desarrollo de aplicaciones m&oacute;viles, utilizando React Native para crear soluciones m&oacute;viles multiplataforma.</p>
               </div>
               <div className='flex-1 mt-10 justify-end items-start'>
                 <h6 className='xl:text-3xl lg:text-xl md:text-lg font-semibold'>Tecnologias y herramientas:</h6>
@@ -516,8 +516,8 @@ const Home = () => {
             </li>
             <li className='w-full flex flex-col h-auto 2xl:p-12 lg:p-8 md:p-4 bg-container rounded-lg'>
               <div className='w-full items-start'>
-                <h4 className='mb-3 font-semibold xl:text-3xl lg:text-2xl md:text-xl'>Administración de Servidores</h4>
-                <p className='font-light 2xl:text-2xl lg:text-lg 2xl:leading-relaxed'>Administrador de servidores con conocimientos básicos de Linux. Siempre estoy dispuesto a aprender y mejorar mis habilidades en este campo en constante evolución.</p>
+                <h4 className='mb-3 font-semibold xl:text-3xl lg:text-2xl md:text-xl'>Administraci&oacute;n de Servidores</h4>
+                <p className='font-light 2xl:text-2xl lg:text-lg 2xl:leading-relaxed'>Administrador de servidores con conocimientos b&aacute;sicos de Linux. Siempre estoy dispuesto a aprender y mejorar mis habilidades en este campo en constante evoluci&oacute;n.</p>
               </div>
               <div className='flex-1 mt-10 justify-end items-start'>
                 <h6 className='xl:text-3xl lg:text-xl md:text-lg font-semibold'>Tecnologias y herramientas:</h6>
